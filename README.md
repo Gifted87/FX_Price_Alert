@@ -157,7 +157,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 ---
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the License file for details.
 
 ---
 
@@ -169,7 +169,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 ## Support
-If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/your-username/alertify/issues).
+If you encounter any issues or have questions, please open an issue on the Github Repository.
 
 ---
 
