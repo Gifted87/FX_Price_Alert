@@ -1,6 +1,6 @@
 # Alertify - Real-Time Price Alert Bot
 
-Alertify is a real-time price alert bot that allows users to set alerts for financial instruments (cryptocurrencies, forex pairs, etc.). It fetches real-time prices using the `yfinance` library and sends notifications via Telegram when the specified conditions are met. The application is built using Flask for the web interface and `yfinance` for price data.
+Alertify is a real-time price alert bot that allows users to set alerts for financial instruments (cryptocurrencies, forex pairs, stocks etc.). It fetches real-time prices using the `yfinance` library and sends notifications via Telegram when the specified conditions are met. The application is built using Flask for the web interface and `yfinance` for price data.
 
 ---
 
